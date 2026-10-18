@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Yerel ayar dosyası (Kişisel indirme klasörü yolu içerir)
+config.json
+
+# IDE / Editör
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim sistemi / Geçici indirme dosyaları
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.part
+*.ytdl
+*.temp
